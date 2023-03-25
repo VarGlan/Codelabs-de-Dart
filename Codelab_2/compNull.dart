@@ -1,0 +1,1 @@
+// Operadores compatibles con nulos
